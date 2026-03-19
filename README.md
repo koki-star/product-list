@@ -6,6 +6,10 @@ This project is a simple React app that displays a static list of products.
 
 The goal was to practice rendering a list using map() and working with components in React.
 
+## Screenshot
+
+![Product List Screenshot](src/assets/product-list.png)
+
 ## What the app does
 
 - Shows a list of products with images, name, description, and price
@@ -39,7 +43,7 @@ product-list/
 ├── public/
 │   └── favicon.svg
 ├── src/
-│   ├── assets/            # Product images
+│   ├── assets/            # Product images and screenshot
 │   ├── App.css            # Styles for the App component
 │   ├── App.jsx            # Main App component
 │   ├── ProductList.jsx    # Product list component with test data
