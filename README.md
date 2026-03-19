@@ -8,7 +8,12 @@ The goal was to practice rendering a list using map() and working with component
 
 ## Screenshot
 
+<details>
+<summary>Click to view screenshot</summary>
+
 ![Product List Screenshot](src/assets/product-list.png)
+
+</details>
 
 ## What the app does
 
